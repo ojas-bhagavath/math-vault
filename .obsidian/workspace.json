@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "34623b83fa3b8d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "b38e689fe0be5059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16985113c413786c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "uniqueness of least and greatest elements.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb2589d4a57d72ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fe82d75f94f05de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "963237a0c9ae8f57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0a4e59351ac56474",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f793c6c142f8fa30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a7de3727840aa96",
+    "type": "split",
+    "children": [
+      {
+        "id": "520197c01645d917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e2260f5b5e7b52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "uniqueness of least and greatest elements.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8323dccdaef4243",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "uniqueness of least and greatest elements.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95fb5432e4c27847",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5d91322dc2a6134f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "uniqueness of least and greatest elements.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "16985113c413786c",
+  "lastOpenFiles": [
+    "infimum and supremum of a subset.md",
+    "equivalence classes and quotient set.md",
+    "Untitled.canvas",
+    "zermelo-frankl-choice axioms.md",
+    "surjective function.md",
+    "bijective function.md",
+    "finite sets.md",
+    "countable sets.md",
+    "power set.md",
+    "identity relation.md",
+    "equivalence relation.md",
+    "group.md",
+    "fundamental theorem of equivalence relations.md",
+    "partition of sets.md",
+    "Cantor's theorem.md",
+    "cardinal number.md",
+    "Dihedral Groups.md",
+    "Symmetric Groups.md",
+    "Cayley's Theorem.md",
+    "relation.md",
+    "reflexive relation.md",
+    "strict partial order relation.md",
+    "empty relation.md",
+    "connected relation.md",
+    "asymmetric relation.md",
+    "antisymmetric relation.md",
+    "symmetric relation.md",
+    "uniqueness of least"
+  ]
+}

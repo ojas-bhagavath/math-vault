@@ -1,0 +1,12 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "vimMode": true,
+  "rightToLeft": false,
+  "trashOption": "local",
+  "useMarkdownLinks": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true
+}
